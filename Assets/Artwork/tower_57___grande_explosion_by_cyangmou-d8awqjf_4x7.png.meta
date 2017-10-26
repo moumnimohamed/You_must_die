@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: f9a7efd575eeb2643b6ee0671a5a916e
+timeCreated: 1488830423
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_0
+    21300002: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_1
+    21300004: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_2
+    21300006: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_3
+    21300008: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_4
+    21300010: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_5
+    21300012: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_6
+    21300014: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_7
+    21300016: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_8
+    21300018: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_9
+    21300020: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_10
+    21300022: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_11
+    21300024: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_12
+    21300026: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_13
+    21300028: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_14
+    21300030: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_15
+    21300032: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_16
+    21300034: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_17
+    21300036: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_18
+    21300038: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_19
+    21300040: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_20
+    21300042: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_21
+    21300044: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_22
+    21300046: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_23
+    21300048: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_24
+    21300050: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_25
+    21300052: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_26
+    21300054: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 876
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 876
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 876
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 730
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 730
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 730
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 584
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 584
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 584
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 438
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 438
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 438
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 292
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 146
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 146
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 146
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tower_57___grande_explosion_by_cyangmou-d8awqjf_4x7_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

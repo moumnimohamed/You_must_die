@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ccd8e9a46ceba1a479e515ba83cc2364
+timeCreated: 1493154828
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zebra
+  fontNames:
+  - Zebra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

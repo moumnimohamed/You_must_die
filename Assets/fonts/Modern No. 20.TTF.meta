@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0e24dff4e41f2c6459a768e97604b34a
+timeCreated: 1493154828
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Modern No. 20
+  fontNames:
+  - Modern No. 20
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

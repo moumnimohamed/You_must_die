@@ -1,0 +1,1 @@
+fire_01.png.png 0 8, fire_02.png.png 27 8, fire_03.png.png 53 8, fire_04.png.png 80 8, fire_05.png.png 106 8, fire_06.png.png 133 8, fire_07.png.png 160 8, fire_08.png.png 186 8, fire_09.png.png 1 61, fire_10.png.png 28 61, fire_11.png.png 54 61, fire_12.png.png 81 61, fire_13.png.png 107 61, fire_14.png.png 134 61, fire_15.png.png 161 61, fire_16.png.png 187 61.

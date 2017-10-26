@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "start.cs",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/inconnu/Documents/you must died/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/inconnu/Documents/mini adventure/Assets/scripting/player_move.cs",
+		"/C/Users/inconnu/Documents/billiard war/Assets/Tiled2Unity/Imported/BILLARD_CASTLE.tiled2unity.xml",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/passage 2013V2/tp2013V2/SuiviStat.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/passage 2013V2/tp2013V2/CentreExamen.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/CentreExamen.cs",
+		"/C/Users/inconnu/Desktop/afri_test_code/afro_manager/Form1.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/Prometric.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/Efp.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/IncorrectFormatException.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/NegativeCodeException.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/PrevuSEffectivException.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/SuiviStat.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/export_form.Designer.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/Dossiers.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/Form_situa_facture.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/bin/Debug/le shemain des dossiers.xml",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/export_form.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/Form1.cs",
+		"/C/Program Files/Adobe/Adobe Illustrator CC 2015/Support Files/Contents/Windows/AMT/application.xml",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.007/Form1.cs",
+		"/C/Users/inconnu/Desktop/afri_securité/afri_securité/bin/Debug/moumni.xml",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v1/examan de passage 2011 v1/visites.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/equals/ConsoleApplication2/Stagiaire.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/equals/ConsoleApplication2/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2012 v 7/exam 2012 v 7/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam2013_v4/exam2013_v4/exam2013_v4/Location.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam2013_v4/exam2013_v4/exam2013_v4/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam2013_v4/exam2013_v4/exam2013_v4/Client.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam2013_v4/exam2013_v4/exam2013_v4/Voiture.cs",
+		"/C/Users/inconnu/Desktop/les methode ajouter supprimer ..............",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Catégorie.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Produit.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Achat.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Zone.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v2/examan de passage 2011 v2/Employe.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v2/examan de passage 2011 v2/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam passage  v1 2012/exam passage  v1/Program_principal.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Ville.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/exam 2014 v 1/exam 2014 v 1/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v2/examan de passage 2011 v2/Manager.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp2013V2/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/V4 2011 événementielle/V4 11 événementielle/TRIE.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.655/Inscription.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/passage 2013V2/tp2013V2/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Personne.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Adresse.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.866/Inscription.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v1/examan de passage 2011 v1/Patient.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v1/examan de passage 2011 v1/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2015/Projects/examan de passage 2011 v1/examan de passage 2011 v1/Rendez_vous.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Personne.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Adresse.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/tpinterface/IMère.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/tpinterface/IPère.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/tpinterface/Enfant.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/tp-Interface-et-serialisation-listes/srialisationdeslistes/Program.cs",
+		"/C/Users/inconnu/Documents/mini adventure/Assets/ShareAndRate.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/jeux openclassroom/Program.cs",
+		"/C/Users/inconnu/Desktop/2DTileMapsV4_2/TileWindow.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.139/AdScript.cs",
+		"/C/Users/inconnu/Documents/you must died/Assets/scocial_media.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.799/share.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.133/share.cs",
+		"/C/Users/inconnu/AppData/Local/Temp/Rar$DIa0.487/Program.cs",
+		"/C/Users/inconnu/Documents/Visual Studio 2013/Projects/V4 2011 événementielle/V4 11 événementielle/bin/Debug/Test.xml",
+		"/D/unity project/jumpy_boy/Assets/scripting/move_platform.cs",
+		"/C/Users/inconnu/Documents/you must died/Assets/scripting/enmy_script/enmy_jet_attack.cs",
+		"/C/Users/inconnu/Desktop/enmy_projictile.cs",
+		"/C/Users/inconnu/Documents/you must died/you must died.sublime-project",
+		"/C/Users/inconnu/Documents/mini adventure/mini adventure.sublime-project",
+		"/C/Users/inconnu/Documents/mini adventure/mini adventure.userprefs",
+		"/D/unity project/jumpy_boy/Assets/scripting/enemy/destroyShot.cs",
+		"/C/Users/inconnu/Downloads/Filiere.cs",
+		"/C/Users/inconnu/Downloads/Program.cs",
+		"/C/Users/inconnu/Downloads/inscription.cs",
+		"/C/Users/inconnu/Downloads/candidat.cs",
+		"/C/Users/inconnu/Downloads/Niveau.cs",
+		"/D/unity project/jumpy_boy/Assets/active_shot_function.cs",
+		"/D/unity project/black sky boy/Assets/scripting/enemy/moveforward.cs",
+		"/D/unity project/jumpy_boy/Assets/scripting/enemy/moveforward.cs",
+		"/C/Users/inconnu/Downloads/Compressed/2DTileMapsV4/TileWindow.cs",
+		"/C/Users/inconnu/Downloads/Compressed/Ex_Files_Unity5_2D_Adventure/Ex_Files_Unity5_2D_Adventure/Exercise Files/Ch04/04_04/Jetroid/Assets/Jetroid/Scripts/PlayerController.cs",
+		"/C/Users/inconnu/Documents/test_anim/Assets/Plugins/Android/sdkbox_facebook_lib/res/values/strings.xml",
+		"/C/Users/inconnu/Documents/test_anim/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+		"/C/Users/inconnu/Documents/test_anim/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs",
+		"/C/Users/inconnu/Documents/test_anim/Assets/FurBall2D_mobile/Scripts/PlayerController_m.cs",
+		"/C/Users/inconnu/Desktop/black sky boy/Assets/ShareAndRate.cs"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "start.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "you must died.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
